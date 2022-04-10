@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Bitácora de Viaje de Diaana</title>
-    <link>https://dianabarrerag.github.io/diaana_my_launchx_blog/posts/</link>
+    <link>https://dianabarrerag.github.io/my_launchx_blog/posts/</link>
     <description>Recent content in Blog on Bitácora de Viaje de Diaana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://dianabarrerag.github.io/diaana_my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://dianabarrerag.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mi ruta de aprendizaje en LaunchX</title>
-      <link>https://dianabarrerag.github.io/diaana_my_launchx_blog/posts/post_1/</link>
+      <link>https://dianabarrerag.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dianabarrerag.github.io/diaana_my_launchx_blog/posts/post_1/</guid>
+      <guid>https://dianabarrerag.github.io/my_launchx_blog/posts/post_1/</guid>
       <description>¿Qué tal estás? Te mando un saludo donde quiera que te encuentres a la hora de leer esto.
  Un día navegando en alguna red social, me encontré con el anuncio de que Microsoft a través de Innovacción Virtual lanzarían una especie de &amp;ldquo;curso&amp;rdquo; en el que enseñarían como poder llegar a ser un desarrollador Fullstack, lo escribo entre comillas porque ahora que formo parte de este noble y maravilloso proyecto, me doy cuenta de que es mucho más que un curso, ésto engloba tantas cosas que la única palabra que se me ocurre para tratar de describirlo es formación; aún así, esto es una formación enserio, como volver a regresar al escuela o como una capacitación para tu nuevo empleo.</description>
     </item>
     
     <item>
       <title>La cultura en el desarrollo de software</title>
-      <link>https://dianabarrerag.github.io/diaana_my_launchx_blog/posts/intro/</link>
+      <link>https://dianabarrerag.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dianabarrerag.github.io/diaana_my_launchx_blog/posts/intro/</guid>
+      <guid>https://dianabarrerag.github.io/my_launchx_blog/posts/intro/</guid>
       <description>¿Qué tal estás? Te mando un saludo donde quiera que te encuentres a la hora de leer esto.
 Un desarrollador de software al igual que culquier otro profesionista necesita destacarse en su rubro frente a los otros desarrolladores, sin embargo, no deja de ser diferente a las demás personas en tanto lo que posee por dentro, lo que llamaríamos sus cualidades, al final de cuentas continuamos siendo seres humanos que se van puliendo en el camino.</description>
     </item>

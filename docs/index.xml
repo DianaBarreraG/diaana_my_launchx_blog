@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Launch X Bitácora de viaje on Bitácora de Viaje de Diaana</title>
-    <link>https://dianabarrerag.github.io/diaana_my_launchx_blog/</link>
+    <link>https://dianabarrerag.github.io/my_launchx_blog/</link>
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Diaana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dianabarrerag.github.io/diaana_my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dianabarrerag.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mi ruta de aprendizaje en LaunchX</title>
-      <link>https://dianabarrerag.github.io/diaana_my_launchx_blog/posts/post_1/</link>
+      <link>https://dianabarrerag.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dianabarrerag.github.io/diaana_my_launchx_blog/posts/post_1/</guid>
+      <guid>https://dianabarrerag.github.io/my_launchx_blog/posts/post_1/</guid>
       <description>¿Qué tal estás? Te mando un saludo donde quiera que te encuentres a la hora de leer esto.
  Un día navegando en alguna red social, me encontré con el anuncio de que Microsoft a través de Innovacción Virtual lanzarían una especie de &amp;ldquo;curso&amp;rdquo; en el que enseñarían como poder llegar a ser un desarrollador Fullstack, lo escribo entre comillas porque ahora que formo parte de este noble y maravilloso proyecto, me doy cuenta de que es mucho más que un curso, ésto engloba tantas cosas que la única palabra que se me ocurre para tratar de describirlo es formación; aún así, esto es una formación enserio, como volver a regresar al escuela o como una capacitación para tu nuevo empleo.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://dianabarrerag.github.io/diaana_my_launchx_blog/pages/about/</link>
+      <link>https://dianabarrerag.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dianabarrerag.github.io/diaana_my_launchx_blog/pages/about/</guid>
+      <guid>https://dianabarrerag.github.io/my_launchx_blog/pages/about/</guid>
       <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
 Diana Barrera Guzmán originaria del Estado de México, egresada de la licenciatura en Informática Administrativa. Me gusta aprender en línea, tomar cursos y practicar lo más que pueda acerca de el mundo tech.
 Disfruto mucho leer, ver series y bailar.</description>
@@ -30,10 +30,10 @@ Disfruto mucho leer, ver series y bailar.</description>
     
     <item>
       <title>La cultura en el desarrollo de software</title>
-      <link>https://dianabarrerag.github.io/diaana_my_launchx_blog/posts/intro/</link>
+      <link>https://dianabarrerag.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dianabarrerag.github.io/diaana_my_launchx_blog/posts/intro/</guid>
+      <guid>https://dianabarrerag.github.io/my_launchx_blog/posts/intro/</guid>
       <description>¿Qué tal estás? Te mando un saludo donde quiera que te encuentres a la hora de leer esto.
 Un desarrollador de software al igual que culquier otro profesionista necesita destacarse en su rubro frente a los otros desarrolladores, sin embargo, no deja de ser diferente a las demás personas en tanto lo que posee por dentro, lo que llamaríamos sus cualidades, al final de cuentas continuamos siendo seres humanos que se van puliendo en el camino.</description>
     </item>
